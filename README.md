@@ -49,7 +49,11 @@ Download plugin by clicking [Bohudur.zip](https://github.com/BohudurOne/EasyDigi
    When a customer selects Bohudur as the payment method during checkout, they will be redirected to the Bohudur payment page to complete the transaction.
 
 2. **Payment Verification**  
-   The plugin automatically handles payment verification and updates the order status accordingly.
+   The plugin automatically handles payment verification and updates the order status accordingly
+
+## Documentation
+
+You can find the full documentation here:  [https://documentation.bohudur.one/edd/](https://documentation.bohudur.one/edd/)
 
 ## License
 
