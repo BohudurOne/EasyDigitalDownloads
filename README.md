@@ -15,7 +15,7 @@ Bohudur EDD is a WordPress plugin that integrates the **Bohudur** payment gatewa
 
 ### Download
 
-Download [Bohudur.zip](https://github.com/BohudurOne/EasyDigitalDownloads/releases/download/1.0.0/Bohudur.zip) file from the **Release** section of this repository.
+Download plugin by clicking [Bohudur.zip](https://github.com/BohudurOne/EasyDigitalDownloads/blob/main/edd-bohudur.zip)
 
 ### Installation
 
@@ -36,8 +36,9 @@ Download [Bohudur.zip](https://github.com/BohudurOne/EasyDigitalDownloads/releas
 2. **Configure Bohudur Gateway**  
    - **Gateway Display Name** – The name that will be shown on the checkout page  
    - **API KEY** – Your Bohudur API key  
-   - **API URL** – The Bohudur API endpoint URL  
-   - **Exchange Rate** – Set the exchange rate (e.g., 1 USD = ? BDT)
+   - **Webhook Success URL** – If you want to get webhook response after payment success (Optional)
+   - **Webhook Cancelled URL** – If you want to get webhook response after payment cancel (Optional)  
+   - **Exchange Rate** – Set the exchange rate for your used currency. If you give 0 then it will use Bohudur Inbuilt Currency Converter.
 
 3. **Save Changes**  
    Click **Save Changes** to apply your settings.
