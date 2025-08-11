@@ -1,7 +1,7 @@
 # Bohudur Easy Digital Downloads
 <img src="https://bohudur.one/bohudurlogo.png" alt="Bohudur Logo" width="328"/>
 
-Bohudur EDD is a WordPress plugin that integrates the **Bohudur** payment gateway with Easy Digital Downloads (EDD), enabling merchants to accept payments through Bohudur.
+Bohudur EDD is a WordPress plugin that integrates the **Bohudur** payment gateway with Easy Digital Downloads (EDD) to accept payments through Bohudur.
 
 ## Features
 
